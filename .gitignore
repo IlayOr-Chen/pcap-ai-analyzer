@@ -1,0 +1,34 @@
+# Environment variables (NEVER commit your API keys)
+.env
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Uploaded PCAP files (may contain sensitive data)
+*.pcap
+*.pcapng
+
+# GeoIP cache
+geo_cache.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
