@@ -156,7 +156,7 @@ The moment a PCAP is loaded, `ErrorHunterEngine` automatically scans **all** rec
 
 ---
 
-## סקציה בעברית — מדריך קצר
+## סקיצה בעברית — מדריך קצר
 
 ### מנתח תעבורת רשת עם בינה מלאכותית
 
